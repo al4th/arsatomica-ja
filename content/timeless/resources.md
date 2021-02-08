@@ -1,7 +1,7 @@
 +++
-title = "Resources"
+title = "アトミックの参考書"
 date = 2019-06-05T01:25:33+08:00
-description = "Atomic chess resources by Illion"
+description = "アトミックチェスの参考書Illion"
 
 slug = "resources"
 categories = ["Reference"]
@@ -10,21 +10,47 @@ type = "timeless"
 series = []
 +++
 
-Over my time playing atomic I've created quite a number of resources for my own benefit and for others. This will primarily be a list of lichess studies covering different topics. (I may consider making the pgns available directly in the future, but the lichess studies may evolve constantly.)
+<!--
+Over my time playing atomic I've created quite a number of resources for my own benefit and for others. This will primarily be a list of lichess studies covering different topics. (I may consider making the pgns available directly in the future, but the lichess studies may evolve constantly.)-->
+これまで私がアトミックをプレイした経験を元に、私を含めた多くの方々にとってプラスとなるよう、沢山の教材を作ってきた。
+これは主にリチェスのスタディの集まりから出来ており、様々な異なるトピックが含まれている。
+PGNで提供することを将来検討するかもしれないが、リチェスのスタディが進化し続けると思う（訳者注：「のでリチェスのスタディを見てもらうほうが良いだろう」という意味と思われる）。
 
-## Endgames ##
+## エンドゲーム ##
 
-Endgames are probably the most important thing to learn, whether you're a new player or an experienced one. The basic techniques are very different from regular chess endgames, and fully worth the investment to master them. The first three studies are perhaps the most important of all for practical play.
+<!--Endgames are probably the most important thing to learn, whether you're a new player or an experienced one. The basic techniques are very different from regular chess endgames, and fully worth the investment to master them. The first three studies are perhaps the most important of all for practical play.-->
+アトミックで学ぶべきことの中でも、おそらくエンドゲームが最も重要なトピックだ。これは初心者であれ上級者であれ当てはまることだ。
+基本テクニックは普通のチェス（訳注：以下単にチェスと呼ぶ）のエンドゲームと大きく異なる。
+以下に示した最初の３つのスタディが、あらゆるアトミックのエンドゲームテクニックの中でたぶん実戦において最も重要だろう。
 
-- [Lone king endgames](https://lichess.org/study/BB4RW1ts) - How to win versus a lone king. Covers KQ, KQQ, KQB, KRR, KRB and KRN versus lone K.
-- [KQP v KP](https://lichess.org/study/2DRvcpIZ) - How to win when up a queen. The single most important "how to win a won game" technique to master. This endgame is why a material difference of a single pawn is winning in atomic.
-- [KQ v KP](https://lichess.org/study/nPsVcyo0) - Lone queen versus lone pawn. Also an important endgame, and the trickiest basic endgame; even top ten players have messed this up (queen versus rook-pawn)! This endgame is what typically results after even-material pawn races. Sometimes, a draw may even be stolen by the side with the pawn.
+訳注：以下では、ピースをアルファベット1文字で略すことがある。
++ K：キング
++ Q：クイーン
++ R：ルーク
++ B：ビショップ
++ N：ナイト
++ P：ポーン
 
-The rest of the endgame studies may not be as overridingly important as the first three above, but knowing these will give you vital ammunition to convert to winning endgames, and will indirectly improve your middlegame play as well when you consider how to convert to the appropriate endgames.
 
-- [Pawnitisation](https://lichess.org/study/iS3Dp19A) - The idea of "pawnitisation". When only pawns are left but one side is up a bishop, the bishop might find itself useless if the opponent's pawns are all on the opposite-coloured squares. There can be very tricky ideas with pawn structure and zugzwang in these endings. Losses turn into draws and draws into wins if you know these ideas.
-- [Rule of the rectangle](https://lichess.org/study/7SpmVBSz) - A proposed method of counting out KP v K (and some other pure pawn) endgames more easily, like the rule of the square in regular chess. The ideas here are helpful for analysing certain more complex endgames.
-- [KPP v KP: backwards pawn](https://lichess.org/study/Iv9L9LTR) - Two pawn versus one is winning if one side can promote, but if the one pawn hold back two, it may be drawn as KQ v K with connected kings is only a draw. Nevertheless, there are some tricky wins possible, and always the hope that the opponent defends incorrectly (which is surprisingly easy to do). Learn the proper technique to defend once and for all, and never worry about dropping unnecessary half-points again.
+- [孤立キングのエンドゲーム](https://lichess.org/study/BB4RW1ts) - 孤立キングとの戦いにおける勝ち方を示した。KQ, KQQ, KQB, KRR, KRB, KRN対孤立Kのパターンを網羅している。
+<!--- [Lone king endgames](https://lichess.org/study/BB4RW1ts) - How to win versus a lone king. Covers KQ, KQQ, KQB, KRR, KRB and KRN versus lone K.-->
+- [KQP対KP](https://lichess.org/study/2DRvcpIZ) - クイーンを1つ得した状態からの勝ち方を示した。最も重要な”勝てる局面を勝ちきる方法”であり、習得するべきだ。このエンドゲームは、なぜ1ポーンのマテリアル差（訳注：駒の損得）がアトミックで勝利に繋がるのかを示している。
+<!--- [KQP v KP](https://lichess.org/study/2DRvcpIZ) - How to win when up a queen. The single most important "how to win a won game" technique to master. This endgame is why a material difference of a single pawn is winning in atomic.-->
+- [KQ対KP](https://lichess.org/study/nPsVcyo0) - これもまた重要なエンドゲームの一つであり、基礎的なエンドゲームの中では最もトリッキーなものでもある。トップ10に入るほどのプレイヤーであっても、（クイーン対ルークポーンの局面で）間違えたことがある。このエンドゲームは、マテリアルで互角な状態のポーン昇格レースが決着した後に生じる。局面によっては、ポーンを持っている側がドローを取れることさえある。
+<!--- [KQ v KP](https://lichess.org/study/nPsVcyo0) - Lone queen versus lone pawn. Also an important endgame, and the trickiest basic endgame; even top ten players have messed this up (queen versus rook-pawn)! This endgame is what typically results after even-material pawn races. Sometimes, a draw may even be stolen by the side with the pawn.-->
+
+<!--The rest of the endgame studies may not be as overridingly important as the first three above, but knowing these will give you vital ammunition to convert to winning endgames, and will indirectly improve your middlegame play as well when you consider how to convert to the appropriate endgames.-->
+下に示した残りのスタディは、上の3つと同じぐらい最重要ということはないだろう。だがこれらのスタディを知ることで、局面を勝てるエンドゲームに持ち込む必須の武器を手に入れることになる。つまりどうやって勝てるエンドゲームに持ち込むか考える時に、間接的にミドルゲーム（中盤）の指し手が正確になる。
+
+- [ポーン化](https://lichess.org/study/iS3Dp19A) - "ポーン化"という考え方を示す。片方のプレイヤーがポーンだけしか持っておらず、もう片方のプレイヤーがポーンとビショップを持っている場合を考える。ビショップを持っている側は、相手ポーンが全てビショップと違う色のマスにいれば、ビショップの使い道は無いと悟るはずだ。このようなエンディングでは、ポーンストラクチャーやツークツワンクに絡んで、非常にトリッキーな考え方が通用する場合がある。ポーン化の考え方を知っていれば、本来負けるはずだった多くの対局をドローにすることもできるし、ドローになるはずだった対局を勝ちにすることもできる。
+
+<!--- [Pawnitisation](https://lichess.org/study/iS3Dp19A) - The idea of "pawnitisation". When only pawns are left but one side is up a bishop, the bishop might find itself useless if the opponent's pawns are all on the opposite-coloured squares. There can be very tricky ideas with pawn structure and zugzwang in these endings. Losses turn into draws and draws into wins if you know these ideas.-->
+- [三角形ルール](https://lichess.org/study/7SpmVBSz) - KP対Kのエンドゲームをもっと簡単に読み切るための方法として、三角形ルールが提唱されている。これはチェスにおける正方形ルールに似ている。ここで示した考え方は、ある種のもっと複雑なエンドゲームを解析するのに役立つ。
+<!--- [Rule of the rectangle](https://lichess.org/study/7SpmVBSz) - A proposed method of counting out KP v K (and some other pure pawn) endgames more easily, like the rule of the square in regular chess. The ideas here are helpful for analysing certain more complex endgames.
+-->
+- [KPP対KP: バックワードポーン](https://lichess.org/study/Iv9L9LTR) - ポーン2つ対ポーン1つの局面では、先にポーンを昇格させた側が勝利を得る。
+Two pawn versus one is winning if one side can promote, but if the one pawn hold back two, it may be drawn as KQ v K with connected kings is only a draw. Nevertheless, there are some tricky wins possible, and always the hope that the opponent defends incorrectly (which is surprisingly easy to do). Learn the proper technique to defend once and for all, and never worry about dropping unnecessary half-points again.
+<!--- [KPP v KP: backwards pawn](https://lichess.org/study/Iv9L9LTR) - Two pawn versus one is winning if one side can promote, but if the one pawn hold back two, it may be drawn as KQ v K with connected kings is only a draw. Nevertheless, there are some tricky wins possible, and always the hope that the opponent defends incorrectly (which is surprisingly easy to do). Learn the proper technique to defend once and for all, and never worry about dropping unnecessary half-points again.-->
 - [KPP v KP: exercises](https://lichess.org/study/K75Qiesx) - A set of 31 exercises to accompany the above KPP v KP study. Good for training calculation and reinforcing what the other study teaches.
 - [Expert KQ v KP](https://lichess.org/study/oWJZMklh) - While in the basic KQ v KP study the pawn is already blocked, in the expert study we consider positions where the pawn is not yet blocked. Knowledge of the basic study is absolutely required. Once you master the content here, however, you will have a complete, tablebase-perfect understanding of this fundamental endgame.
 - [Expert KQ v KP: exercises](https://lichess.org/study/C2Jh0UOy) - A set of 39 exercises to accompany the above KQ v KP study. These are instructive and sometimes extremely tricky positions showcasing the depth of this seemingly simple endgame.
