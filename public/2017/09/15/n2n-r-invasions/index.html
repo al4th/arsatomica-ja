@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <title>Ars Atomica</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="keywords" content="atomic chess, chess, strategy, tactics">
+  <meta name="author" content="Illion">
+  <meta name="generator" content="Hugo 0.80.0" />
+  <link rel="stylesheet" href="/css/default.css">
+  <link rel="stylesheet" href="/css/FigurineSymbol.css">
+  <script src="/js/fen_diagram.js" defer></script>
+</head>
+<body>
+<header>
+  <div align="middle">
+	<div class="logo-text" align="left">
+	<img class="logo" src="/images/Illion_logo.png" alt="Illion" width="794" height="296">
+	</div>
+  </div>
+  <nav>
+  <ul class="navbar">
+    
+    <li>
+    <a href="/">Home</a>
+	</li>
+    
+    <li>
+    <a href="/about/">About</a>
+	</li>
+    
+    <li>
+    <a href="/atomic-rules/">Rules of atomic</a>
+	</li>
+    
+    <li>
+    <a href="/categories/blog/">Blog</a>
+	</li>
+    
+    <li>
+    <a href="/resources/">Resources</a>
+	</li>
+    
+    <li>
+    <a href="/links/">Links</a>
+	</li>
+    
+  </ul>
+  </nav>
+</header>
+
+<div class="section-header-box">
+<h1><span class="title">New to nuke: Rook invasions</span></h1>
+
+
+
+  Posted 2017-09-15 22:21
+
+</div>
+
+<main>
+  <p><em>This series is for players new to atomic. In this installment we look at how a single rook can be fatally dangerous, and a simple principle to help evaluate the situation.</em></p>
+<p>Only the queen can by herself mate the enemy king. But a rook in the middlegame can be equally devastating if the enemy king is surrounded by his own forces. Once a rook slips into the enemy position unchecked, it usually guarantees at least a perpetual, if not an outright win.</p>
+<p>Calculating whether a rook invasion is winning or merely drawing can be complicated, especially if the critical line is long and not every move is a check. However, the good news is that there is a quick trick to spot draws that works most of the time: the 2x2 rule. Before we go into that, we&rsquo;ll look at one simple and vital pattern: a forced mate in 1.</p>
+<h2 id="the-mating-pattern">The mating pattern</h2>
+<p>The following pattern is a forced mate in 1: a rook, the enemy king and an enemy piece all in a line with no spaces in between. This is a check, and the enemy king cannot avoid the explosion next turn (rook takes piece, mate).</p>
+<p>
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/2lC2jkJj/54BTfDt2#1" class="lichess-board" data-url="https://lichess.org/study/embed/2lC2jkJj/54BTfDt2#1">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/2lC2jkJj/54BTfDt2#1">lichess.org</a></p>
+</iframe>
+</div>
+[//]: # (FEN: 8/8/4kp2/8/8/8/8/3RK3 w - - 0 1)</p>
+<p>This simple pattern is important in calculating rook middlegames and endgames.</p>
+<hr>
+<h2 id="the-2x2-rule">The 2x2 rule</h2>
+<p>Now that we&rsquo;ve seen the mating pattern, we see why the squares orthogonally adjacent to pieces are dangerous; squares not adjacent are &ldquo;safe&rdquo;. Keeping this in mind, we have a rule of thumb to spot draws:</p>
+<blockquote>
+<p><strong>If the king reaches a 2x2 safe area, the rook alone cannot win.</strong></p>
+</blockquote>
+<p>The 2x2 square cannot have friendly (the king&rsquo;s side) pieces adjacent to its sides. The king can then just move around within the square while being checked by the rook.</p>
+<p>A diagram should show this more clearly than I can explain in words:</p>
+<p>
+
+
+	
+
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/2lC2jkJj/RulfLTM1" class="lichess-board" data-url="https://lichess.org/study/embed/2lC2jkJj/RulfLTM1">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/2lC2jkJj/RulfLTM1">lichess.org</a></p>
+</iframe>
+</div>
+[//]: # (FEN: 4k3/8/2p2p2/8/8/8/8/3RK3 w - - 0 1)</p>
+<p>The 2x2 rule gives a sufficient but not necessary condition for safety. In other words, there may be cases where there isn&rsquo;t a 2x2 square yet the king can escape to safety elsewhere anyway. But you can be sure that with a 2x2 square, the opponent will need more than just the rook to win.</p>
+<h2 id="winning-rook-invasions">Winning rook invasions</h2>
+<p>Let&rsquo;s look at two examples of winning rook invasions, where the enemy king doesn&rsquo;t have enough space to stay safe - that is, no 2x2 square. The winning method will be to force the king next to its own units and force the mating pattern we saw above.</p>
+<p>Calculating an invasion out to mate can take some effort, but fortunately most of the moves are forced, and really tricky cases don&rsquo;t appear in games very often.</p>
+<p>
+
+
+	
+
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/2lC2jkJj/RdgXDc2k" class="lichess-board" data-url="https://lichess.org/study/embed/2lC2jkJj/RdgXDc2k">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/2lC2jkJj/RdgXDc2k">lichess.org</a></p>
+</iframe>
+</div>
+[//]: # (FEN: 6k1/8/5p1p/8/8/8/8/3RK3 w - - 0 1)</p>
+<p>
+
+
+	
+
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/2lC2jkJj/6UILsj0v" class="lichess-board" data-url="https://lichess.org/study/embed/2lC2jkJj/6UILsj0v">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/2lC2jkJj/6UILsj0v">lichess.org</a></p>
+</iframe>
+</div>
+[//]: # (FEN: 4k3/2p3p1/8/8/8/8/8/5RK1 w - - 0 1)</p>
+<p>The third position is slightly longer and is given as an exercise for the reader; view it in the original lichess study as an <a href="https://lichess.org/study/2lC2jkJj/RNJ147Bm">interactive lesson</a>. You can also click on the link at the bottom of the diagram. White to play and win.</p>
+<p>
+
+
+	
+
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/2lC2jkJj/RNJ147Bm" class="lichess-board" data-url="https://lichess.org/study/embed/2lC2jkJj/RNJ147Bm">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/2lC2jkJj/RNJ147Bm">lichess.org</a></p>
+</iframe>
+</div>
+[//]: # (FEN: 4k3/2p3p1/8/5p2/8/8/8/3RK3 w - - 0 1)</p>
+<h2 id="making-luft">Making luft</h2>
+<p>In regular chess, moving any pawn in front of the king is enough to stop back-rank mates. In atomic, the king needs quite a bit more space against a rook invasion. When you&rsquo;re defending, the 2x2 rule can be extremely useful, allowing you to see the correct defence with almost no calculation. In the following example, the 2x2 rule lets you find the only move to survive very quickly.</p>
+<p>
+
+
+	
+
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/2lC2jkJj/c252d25g" class="lichess-board" data-url="https://lichess.org/study/embed/2lC2jkJj/c252d25g">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/2lC2jkJj/c252d25g">lichess.org</a></p>
+</iframe>
+</div>
+[//]: # (FEN: 2k5/8/8/8/8/r7/5P1P/6K1 w - - 0 1)</p>
+<p>The following position shows an application of the 2x2 rule in an actual game, kreedz-Illion. With 21&hellip;Rxg2, black threatened a rook invasion along the g-file. White reacted correctly with 22. h3!, immediately giving the king safety (2x2 square f1, f2, g1, g2). If for example 22. Bxb4? instead, 22&hellip;h3! fixes the white pawn on h2, and black will win with &hellip;Rg8 next, invading. (22. f6 and 22. Kf2 are also fine to draw.)</p>
+
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/embed/zICrtk9p#42" class="lichess-board" data-url="https://lichess.org/embed/zICrtk9p#42">
+  <p>Embedded chessboard from <a href="https://lichess.org/embed/zICrtk9p#42">lichess.org</a></p>
+</iframe>
+</div>
+<p>Finally, an exercise: can you find the only defence for white? Again, view it on lichess as an <a href="https://lichess.org/study/2lC2jkJj/WKgOe2ld">interactive lesson</a>.</p>
+<p>
+
+
+	
+
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/2lC2jkJj/WKgOe2ld" class="lichess-board" data-url="https://lichess.org/study/embed/2lC2jkJj/WKgOe2ld">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/2lC2jkJj/WKgOe2ld">lichess.org</a></p>
+</iframe>
+</div>
+[//]: # (FEN: 3r3k/8/8/8/8/4PP2/1PP4P/5K2 w - - 0 1)</p>
+<hr>
+<p>The 2x2 rule is a great tool in rook middlegames and endgames, letting you judge invasions almost at a glance.</p>
+<p>Of course, if there isn&rsquo;t a 2x2 square some precise calculation will still be needed to determine if it&rsquo;s still drawn anyway; it&rsquo;s generally simple in practical games though and gets easier with practice, so keep on playing!</p>
+<p><em>(Fine print: Rekursiv gave the rule of the 2x2 square first in his chapter on tactics, along with more complex practical examples; do check out his PDF. Ask around on the <a href="http://lichess.org/team/atomic-chess-theoreticians">Atomic Chess Theoreticians forum</a> for a link to it.)</em></p>
+
+  
+</main>
+
+<footer>
+  <nav class="navbar"><ul><li><a href="#top">Back to top</a></li></ul></nav>
+  
+  © <a href="https://lichess.org/@/Illion">Illion</a> 2017-2020 | Theme by <a href="https://github.com/Marken-Foo/atom-site">Marken Foo</a>
+  
+</footer>
+</body>
+</html>

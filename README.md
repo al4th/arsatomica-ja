@@ -1,6 +1,6 @@
 (*Last updated 2020-01-03*)
 
-This is the git repository for Illion's atomic site. This readme will loosely explain how the site is built and document some custom settings and things. (Future me, I know you're reading this. What did you forget this time?)
+This is the git repository for the translation project of Illion's atomic site. Following readme statements are copied by the original one by Illion. This readme will loosely explain how the site is built and document some custom settings and things. (Future me, I know you're reading this. What did you forget this time?)
 
 
 # Overview of the site #

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timelesses on Ars Atomica</title>
+    <link>https://illion-atomic.netlify.app/timeless/</link>
+    <description>Recent content in Timelesses on Ars Atomica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Illion 2017-2020</copyright>
+    <lastBuildDate>Wed, 05 Jun 2019 01:25:33 +0800</lastBuildDate><atom:link href="https://illion-atomic.netlify.app/timeless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>https://illion-atomic.netlify.app/links/</link>
+      <pubDate>Wed, 05 Jun 2019 01:25:33 +0800</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/links/</guid>
+      <description>Here is a set of links to good sites:
+Where to play? lichess.org - One of the largest sites for playing atomic chess (or regular chess and other variants) online. Completely free and open-source, and with good diagram, study and analysis tools.
+Who can I discuss with? Atomic Chess Theoreticians - The biggest atomic chess discussion group on lichess. Created at the start of 2015, it has since gathered numerous discussions on everything from opening lines to writing computer engines.</description>
+    </item>
+    
+    <item>
+      <title>アトミックの参考書</title>
+      <link>https://illion-atomic.netlify.app/resources/</link>
+      <pubDate>Wed, 05 Jun 2019 01:25:33 +0800</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/resources/</guid>
+      <description>これまで私がアトミックをプレイした経験を元に、私を含めた多くの方々にとってプラスとなるよう、沢山の教材を作ってきた。 これは主にリチェスのスタディの集まりから出来ており、様々な異なるトピックが含まれている。 PGNで提供することを将来検討するかもしれないが、リチェスのスタディが進化し続けると思う（訳者注：「のでリチェスのスタディを見てもらうほうが良いだろう」という意味と思われる）。
+エンドゲーム アトミックで学ぶべきことの中でも、おそらくエンドゲームが最も重要なトピックだ。これは初心者であれ上級者であれ当てはまることだ。 基本テクニックは普通のチェス（訳注：以下単にチェスと呼ぶ）のエンドゲームと大きく異なる。 以下に示した最初の３つのスタディが、あらゆるアトミックのエンドゲームテクニックの中でたぶん実戦において最も重要だろう。
+訳注：以下では、ピースをアルファベット1文字で略すことがある。
+ K：キング Q：クイーン R：ルーク B：ビショップ N：ナイト P：ポーン   孤立キングのエンドゲーム - 孤立キングとの戦いにおける勝ち方を示した。KQ, KQQ, KQB, KRR, KRB, KRN対孤立Kのパターンを網羅している。   KQP対KP - クイーンを1つ得した状態からの勝ち方を示した。最も重要な”勝てる局面を勝ちきる方法”であり、習得するべきだ。このエンドゲームは、なぜ1ポーンのマテリアル差（訳注：駒の損得）がアトミックで勝利に繋がるのかを示している。   KQ対KP - これもまた重要なエンドゲームの一つであり、基礎的なエンドゲームの中では最もトリッキーなものでもある。トップ10に入るほどのプレイヤーであっても、（クイーン対ルークポーンの局面で）間違えたことがある。このエンドゲームは、マテリアルで互角な状態のポーン昇格レースが決着した後に生じる。局面によっては、ポーンを持っている側がドローを取れることさえある。  下に示した残りのスタディは、上の3つと同じぐらい最重要ということはないだろう。だがこれらのスタディを知ることで、局面を勝てるエンドゲームに持ち込む必須の武器を手に入れることになる。つまりどうやって勝てるエンドゲームに持ち込むか考える時に、間接的にミドルゲーム（中盤）の指し手が正確になる。
+ ポーン化 - &amp;ldquo;ポーン化&amp;quot;という考え方を示す。片方のプレイヤーがポーンだけしか持っておらず、もう片方のプレイヤーがポーンとビショップを持っている場合を考える。ビショップを持っている側は、相手ポーンが全てビショップと違う色のマスにいれば、ビショップの使い道は無いと悟るはずだ。このようなエンディングでは、ポーンストラクチャーやツークツワンクに絡んで、非常にトリッキーな考え方が通用する場合がある。ポーン化の考え方を知っていれば、本来負けるはずだった多くの対局をドローにすることもできるし、ドローになるはずだった対局を勝ちにすることもできる。   三角形ルール - KP対Kのエンドゲームをもっと簡単に読み切るための方法として、三角形ルールが提唱されている。これはチェスにおける正方形ルールに似ている。ここで示した考え方は、ある種のもっと複雑なエンドゲームを解析するのに役立つ。   KPP対KP: バックワードポーン - ポーン2つ対ポーン1つの局面では、先にポーンを昇格させた側が勝利を得る。 だがポーン1つの側が、ポーンで相手のポーン2つをせき止めている場合は、KQ対Kのパターンに持ち込まれる可能性があり、この場合連結キングにする以外にドローにする方法はない。それでも、いくつかトリッキーな勝ち方が存在しているし、相手が受け方を間違えるという希望もある（受け間違えるのは驚くほど簡単だ）。正しい受けのテクニックを学ぼう。受けのテクニックを学ぶのはこれが最後でいい。一度学べば、今後二度と0.5点を落とす心配をしなくてよくなる。   KPP v KP: exercises - A set of 31 exercises to accompany the above KPP v KP study.</description>
+    </item>
+    
+    <item>
+      <title>このブログについて</title>
+      <link>https://illion-atomic.netlify.app/about/</link>
+      <pubDate>Sun, 24 Mar 2019 20:47:13 +0800</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/about/</guid>
+      <description>このブログを読めば、私のアトミックチェスに対するアプローチを知ることができる。 私の思考プロセスと、対局中に局面をどのように見ているかを伝えるつもりである。 そして個々の対局を超えて、対局を研究する方法に関する豆知識も提供したいと考えている。 時には様々なオープニングラインについて学べたり、エンドゲームの解析例を知ることができる。あるいは、私がアトミックのプレイで得た経験についてのとりとめもないおかしな話を読めることもあるだろう。 私の書いたこれらの記事が、初心者のみなさんが過去5手を生き残るという初期段階（訳注：アトミックは頓死が多く発生する。これによる負けを避けられるようになることが初心者にとっての&amp;quot;初期段階&amp;quot;であるという意味だと思われる）をより早く攻略する補助になればよいと考えている。また、より経験のあるプレイヤーが新たな造詣を得て、強さを際立たせることの手助けとなれることを願っている。
+どちらの場合であっても、このブログを楽しんで読んでもらえることを願っているし、それ以上にアトミックを楽しんでプレイしてもらえることを望む。
+~Illion
+訳者より 日本語版の発信を快諾いただきましたIllionさんには大変感謝しております。ありがとうございました。 この日本語版を読まれた方々が、アトミックチェスの魅力と奥深さに触れ、楽しくプレイされることを願ってやみません。
+~al4th</description>
+    </item>
+    
+    <item>
+      <title>Rules of atomic</title>
+      <link>https://illion-atomic.netlify.app/atomic-rules/</link>
+      <pubDate>Sat, 19 Aug 2017 11:14:36 +0200</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/atomic-rules/</guid>
+      <description>Welcome to atomic chess! The variant rules are also explained at their own page on lichess, but not many people know about that page, and the rules about checks may seem unclear at first. Presented here are all the rules with examples to show you what it all means.
+View all the examples and try moving the pieces directly on lichess!
+Goal In atomic chess, you win by checkmating or exploding the enemy king, with your king remaining on the board.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rules on Ars Atomica</title>
+    <link>https://illion-atomic.netlify.app/tags/rules/</link>
+    <description>Recent content in rules on Ars Atomica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Illion 2017-2020</copyright>
+    <lastBuildDate>Sat, 19 Aug 2017 11:14:36 +0200</lastBuildDate><atom:link href="https://illion-atomic.netlify.app/tags/rules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rules of atomic</title>
+      <link>https://illion-atomic.netlify.app/atomic-rules/</link>
+      <pubDate>Sat, 19 Aug 2017 11:14:36 +0200</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/atomic-rules/</guid>
+      <description>Welcome to atomic chess! The variant rules are also explained at their own page on lichess, but not many people know about that page, and the rules about checks may seem unclear at first. Presented here are all the rules with examples to show you what it all means.
+View all the examples and try moving the pieces directly on lichess!
+Goal In atomic chess, you win by checkmating or exploding the enemy king, with your king remaining on the board.</description>
+    </item>
+    
+  </channel>
+</rss>

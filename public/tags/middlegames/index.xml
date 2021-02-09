@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>middlegames on Ars Atomica</title>
+    <link>https://illion-atomic.netlify.app/tags/middlegames/</link>
+    <description>Recent content in middlegames on Ars Atomica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Illion 2017-2020</copyright>
+    <lastBuildDate>Fri, 13 Dec 2019 21:24:48 +0800</lastBuildDate><atom:link href="https://illion-atomic.netlify.app/tags/middlegames/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classic FICS: subtle space</title>
+      <link>https://illion-atomic.netlify.app/2019/12/13/classic-fics-subtle-space/</link>
+      <pubDate>Fri, 13 Dec 2019 21:24:48 +0800</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/2019/12/13/classic-fics-subtle-space/</guid>
+      <description>This time, we&amp;rsquo;re looking at a FICS blitz game from 2008. One of the strongest atomic players, siggemannen, takes the black pieces against luckybbad in a 3 minute, no increment game.
+FICS database number: 214032815
+View the complete game analysed on lichess.
+luckybbad (1934) - siggemannen (2306), 3+0, FICS 2008-11-02 1. e3 e6 2. Qf3 f5 3. Qh5+ g6 4. Qh4
+White opts to trade queens early. This particular line might be criticised in some quarters as unambitious.</description>
+    </item>
+    
+  </channel>
+</rss>

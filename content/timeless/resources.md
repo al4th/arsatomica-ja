@@ -1,7 +1,7 @@
 +++
-title = "アトミックの参考書"
+title = "戦略の教科書"
 date = 2019-06-05T01:25:33+08:00
-description = "アトミックチェスの参考書Illion"
+description = "戦略の教科書"
 
 slug = "resources"
 categories = ["Reference"]

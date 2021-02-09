@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New-to-nuke on Ars Atomica</title>
+    <link>https://illion-atomic.netlify.app/tags/new-to-nuke/</link>
+    <description>Recent content in New-to-nuke on Ars Atomica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Illion 2017-2020</copyright>
+    <lastBuildDate>Fri, 15 Sep 2017 22:21:47 +0200</lastBuildDate><atom:link href="https://illion-atomic.netlify.app/tags/new-to-nuke/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New to nuke: Rook invasions</title>
+      <link>https://illion-atomic.netlify.app/2017/09/15/n2n-r-invasions/</link>
+      <pubDate>Fri, 15 Sep 2017 22:21:47 +0200</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/2017/09/15/n2n-r-invasions/</guid>
+      <description>This series is for players new to atomic. In this installment we look at how a single rook can be fatally dangerous, and a simple principle to help evaluate the situation.
+Only the queen can by herself mate the enemy king. But a rook in the middlegame can be equally devastating if the enemy king is surrounded by his own forces. Once a rook slips into the enemy position unchecked, it usually guarantees at least a perpetual, if not an outright win.</description>
+    </item>
+    
+    <item>
+      <title>New to nuke: Basic endgames</title>
+      <link>https://illion-atomic.netlify.app/2017/09/02/n2n-basic-endgames/</link>
+      <pubDate>Sat, 02 Sep 2017 01:11:43 +0200</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/2017/09/02/n2n-basic-endgames/</guid>
+      <description>This series is for players new to atomic. In this installment we cover three fundamental endgames one needs to master.
+It happens often: one side is up a massive amount of material and is comfortably winning. Yet, when more pieces are traded off, the losing side&amp;rsquo;s king walks right up next to the opponent&amp;rsquo;s king where it&amp;rsquo;s immune to checks. Suddenly the win isn&amp;rsquo;t the clear-cut stomp it appeared to be, the winning side panics and the game ends up drawn after some ineffectual flailing about.</description>
+    </item>
+    
+    <item>
+      <title>New to nuke: Opening queen tactics</title>
+      <link>https://illion-atomic.netlify.app/2017/08/25/n2n-opening-q-tactics/</link>
+      <pubDate>Fri, 25 Aug 2017 20:16:52 +0200</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/2017/08/25/n2n-opening-q-tactics/</guid>
+      <description>This series is for players new to atomic. In this installment we look at common queen tactics you will surely come across and learn to watch out for.
+The knights may be the fastest pieces out of the gates, but the queen is the real menace, combining deadly mobility with the ability to single-handedly deliver mate. Many of the opening traps in atomic are associated with the queen, threatening multiple mates at once or to sneaking into the enemy&amp;rsquo;s camp along weak diagonals.</description>
+    </item>
+    
+    <item>
+      <title>New to nuke: Opening knight tactics</title>
+      <link>https://illion-atomic.netlify.app/2017/08/22/n2n-opening-n-tactics/</link>
+      <pubDate>Tue, 22 Aug 2017 21:39:16 +0200</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/2017/08/22/n2n-opening-n-tactics/</guid>
+      <description>This series is for players new to atomic. In this installment we look at common knight tactics you will surely encounter or use without even trying.
+If you&amp;rsquo;ve played atomic a couple times, you&amp;rsquo;d notice that knights can be very dangerous in the opening. It may seem difficult to deal with them jumping into your half of the board and winning material or the game. In this post, we&amp;rsquo;ll explore some common knight tactics, and how to defend against them.</description>
+    </item>
+    
+    <item>
+      <title>New to nuke: First steps</title>
+      <link>https://illion-atomic.netlify.app/2017/08/21/n2n-first-steps/</link>
+      <pubDate>Mon, 21 Aug 2017 01:57:14 +0200</pubDate>
+      
+      <guid>https://illion-atomic.netlify.app/2017/08/21/n2n-first-steps/</guid>
+      <description>This series is for players new to atomic. Later installments will feature material geared towards correcting beginner mistakes and developing a rounded skillset.
+This first post in the series is about getting off on the right foot: by playing games. More so than any concrete advice, it&amp;rsquo;s better to jump right into a couple games with a vague idea or two about the variant (see the end of the article) and the intention to have fun.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <title>Ars Atomica</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="An explanation of the rules of atomic chess for the beginner.">
+  <meta name="keywords" content="atomic chess, chess, strategy, tactics">
+  <meta name="author" content="Illion">
+  <meta name="generator" content="Hugo 0.80.0" />
+  <link rel="stylesheet" href="/css/default.css">
+  <link rel="stylesheet" href="/css/FigurineSymbol.css">
+  <script src="/js/fen_diagram.js" defer></script>
+</head>
+
+<body>
+<header>
+  <div align="middle">
+	<div class="logo-text" align="left">
+	<img class="logo" src="/images/Illion_logo.png" alt="Illion" width="794" height="296">
+	</div>
+  </div>
+  <nav>
+  <ul class="navbar">
+    
+    <li>
+    <a href="/">Home</a>
+	</li>
+    
+    <li>
+    <a href="/about/">About</a>
+	</li>
+    
+    <li>
+    <a href="/atomic-rules/">Rules of atomic</a>
+	</li>
+    
+    <li>
+    <a href="/categories/blog/">Blog</a>
+	</li>
+    
+    <li>
+    <a href="/resources/">Resources</a>
+	</li>
+    
+    <li>
+    <a href="/links/">Links</a>
+	</li>
+    
+  </ul>
+  </nav>
+</header>
+
+<div class="section-header-box">
+<h1><span class="title">Rules of atomic</span></h1>
+
+</div>
+
+<main>
+  <p>Welcome to atomic chess! The variant rules are also explained at <a href="https://lichess.org/variant/atomic">their own page on lichess</a>, but not many people know about that page, and the rules about checks may seem unclear at first. Presented here are all the rules with examples to show you what it all means.</p>
+<p>View all the examples and try moving the pieces <a href="https://lichess.org/study/Y9Aj5y3j/">directly on lichess</a>!</p>
+<h2 id="goal">Goal</h2>
+<p>In atomic chess, you win by checkmating or exploding the enemy king, with your king remaining on the board.</p>
+<h2 id="captures">Captures</h2>
+<p>The most striking feature of atomic chess is the destructive power of captures. When a capture is played:</p>
+<ol>
+<li>The capturing piece and captured piece die (are removed from the board).</li>
+<li>Next, imagine a 3x3 square centred on the captured piece. Everything in that square that is not a pawn dies.</li>
+</ol>
+<p>This example shows 3 different captures by black depending on white&rsquo;s 5th move, and explains which pieces die in each capture.</p>
+
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/Y9Aj5y3j/gIvsi0CZ#4" class="lichess-board" data-url="https://lichess.org/study/embed/Y9Aj5y3j/gIvsi0CZ#4">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/Y9Aj5y3j/gIvsi0CZ#4">lichess.org</a></p>
+</iframe>
+</div>
+<p>Much of the game revolves around winning material (or the enemy king!) with captures while dodging your opponent&rsquo;s threats. In fact, <strong>exploding the enemy king</strong>* is a fairly common way for the game to end.</p>
+<p>This also means that kings cannot capture anything, as they would die in the process. They can&rsquo;t even capture each other!</p>
+<p>*Pedantic note: Phrased more accurately, it would be &ldquo;capturing a piece next to the enemy king, catching it in the explosion&rdquo;, but &ldquo;exploding the king&rdquo; is much easier to say.</p>
+<h3 id="exception-en-passant">Exception: En passant</h3>
+<p>In the case of en passant, the 3x3 square in step 2 is not centred on the captured pawn, but on the square it bypassed (the square the capturing pawn moved to).</p>
+
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/Y9Aj5y3j/VEOjghJD#5" class="lichess-board" data-url="https://lichess.org/study/embed/Y9Aj5y3j/VEOjghJD#5">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/Y9Aj5y3j/VEOjghJD#5">lichess.org</a></p>
+</iframe>
+</div>
+<h2 id="illegal-moves">Illegal moves</h2>
+<p>The goal in atomic chess is to checkmate or explode the enemy king while keeping your king alive. It is therefore illegal to play a move that explodes your own king, such as capturing a piece next to your king. It is also illegal to play a move that leaves your own king in check, unless you immediately explode the opponent&rsquo;s king.
+This second part is tricky, and takes a while to get used to. I remember it as &ldquo;King explosion &gt; check&rdquo;.</p>
+<p>In this example, black cannot leave the king in check with 9&hellip;Qxc7.</p>
+
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/Y9Aj5y3j/AVDvSCCW#16" class="lichess-board" data-url="https://lichess.org/study/embed/Y9Aj5y3j/AVDvSCCW#16">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/Y9Aj5y3j/AVDvSCCW#16">lichess.org</a></p>
+</iframe>
+</div>
+<p>Whereas in this example, black can ignore the check on his king and win by exploding the enemy king with 4&hellip;Bxd2#.</p>
+
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/Y9Aj5y3j/DluXatzP#7" class="lichess-board" data-url="https://lichess.org/study/embed/Y9Aj5y3j/DluXatzP#7">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/Y9Aj5y3j/DluXatzP#7">lichess.org</a></p>
+</iframe>
+</div>
+<h2 id="adjacent-kings">Adjacent kings</h2>
+<p>Because kings cannot capture anything, they also cannot capture each other. So It is perfectly normal in atomic chess for the kings to be next to each other. Furthermore, while they are adjacent, the kings are immune to checks (since each one can&rsquo;t be captured without exploding the other king, they are not under attack in that sense.) This can make for some very interesting endgames, where the winning method is to explode a piece next to your opponent&rsquo;s king but not next to yours.</p>
+
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/Y9Aj5y3j/8gu21f1H#0" class="lichess-board" data-url="https://lichess.org/study/embed/Y9Aj5y3j/8gu21f1H#0">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/Y9Aj5y3j/8gu21f1H#0">lichess.org</a></p>
+</iframe>
+</div>
+<h2 id="castling">Castling</h2>
+<p>Castling works the same as in normal chess. You cannot castle while in check, through check, or into check. The king can however safely pass through or reach any square adjacent to the enemy king; adjacent kings nullify checks.</p>
+
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/Y9Aj5y3j/tV1rwQvI#0" class="lichess-board" data-url="https://lichess.org/study/embed/Y9Aj5y3j/tV1rwQvI#0">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/Y9Aj5y3j/tV1rwQvI#0">lichess.org</a></p>
+</iframe>
+</div>
+<hr>
+<p>To see the rules in action, here&rsquo;s a short example game of atomic.</p>
+
+
+
+	
+
+
+	
+
+<div class="container">
+<iframe src="https://lichess.org/study/embed/Y9Aj5y3j/bGNv3Ppy#0" class="lichess-board" data-url="https://lichess.org/study/embed/Y9Aj5y3j/bGNv3Ppy#0">
+  <p>Embedded chessboard from <a href="https://lichess.org/study/embed/Y9Aj5y3j/bGNv3Ppy#0">lichess.org</a></p>
+</iframe>
+</div>
+<p>Those are the rules of atomic chess. Now you won&rsquo;t be surprised anymore by your opponent ignoring check or having adjacent kings, and you&rsquo;re ready to go out and play!</p>
+
+  
+    <em>Last updated: 2017-08-19 11:14</em>
+  
+</main>
+
+<footer>
+  <nav class="navbar"><ul><li><a href="#top">Back to top</a></li></ul></nav>
+  
+  © <a href="https://lichess.org/@/Illion">Illion</a> 2017-2020 | Theme by <a href="https://github.com/Marken-Foo/atom-site">Marken Foo</a>
+  
+</footer>
+</body>
+
+</html>

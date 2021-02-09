@@ -4,8 +4,8 @@ title = "Ars Atomica"
 copyright = "Illion 2017-2020"
 
 [params]
-    author = "Illion"
-	footer = "&copy; [Illion](https://lichess.org/@/Illion) 2017-2020 | Theme by [Marken Foo](https://github.com/Marken-Foo/atom-site)"
+    author = "Original articles by Illion, 日本語 by al4th"
+	footer = "&copy; [Illion](https://lichess.org/@/Illion) 2017-2020, &copy; [al4th](https://lichess.org/@/al4th) 2021 (日本語) | Theme by [Marken Foo](https://github.com/Marken-Foo/atom-site)"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -17,27 +17,27 @@ copyright = "Illion 2017-2020"
 	tag = "tags"
 	
 [[menu.main]]
-    name = "Home"
+    name = "ホーム"
 	url = "/"
 	weight = 1
 [[menu.main]]
-    name = "About"
+    name = "このブログについて"
 	url = "/about/"
 	weight = 2
 [[menu.main]]
-    name = "Rules of atomic"
+    name = "アトミックのルール"
 	url = "/atomic-rules/"
 	weight = 3
 [[menu.main]]
-    name = "Blog"
+    name = "ブログ"
 	url = "/categories/blog/"
 	weight = 4
 [[menu.main]]
-	name = "Resources"
+	name = "戦略の教科書"
 	url = "/resources/"
 	weight = 5
 [[menu.main]]
-    name = "Links"
+    name = "リンク"
 	url = "/links/"
 	weight = 6
 	
