@@ -19,6 +19,9 @@ Illionのアトミックチェスブログへようこそ！
 このブログ記事は興味深い内容だろうし、読者のためになればいいと思っている。「戦略の教科書」のページには私のリチェススタディへのリンクがたくさんあり、エンドゲームから他で見ることができない解説付きの対局までもカバーしている。
 
 Powered by GitHub, Netlify, and Hugo.
+
+訳注：オリジナルのサイトはIllion氏による[Ars Atomica](https://illion-atomic.netlify.app/)です。
+
 <!--The blog articles may be interesting and hopefully informative, while the Resources page is full of links to my lichess studies, which cover topics ranging from endgames to annotated games that you won't find elsewhere.
 
 Powered by GitHub, Netlify, and Hugo.-->
