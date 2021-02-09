@@ -20,7 +20,7 @@ Illionのアトミックチェスブログへようこそ！
 
 Powered by GitHub, Netlify, and Hugo.
 
-訳注：オリジナルのサイトはIllion氏による[Ars Atomica](https://illion-atomic.netlify.app/)です。
+訳注：オリジナルのサイトはIllion氏による[Ars Atomica](https://illion-atomic.netlify.app/)です。日本語訳に問題を発見した場合は、lichess.orgの[al4th](https://lichess.org/@/al4th)宛て、またはTwitterの[al4th](https://twitter.com/al4_th)までご連絡ください。
 
 <!--The blog articles may be interesting and hopefully informative, while the Resources page is full of links to my lichess studies, which cover topics ranging from endgames to annotated games that you won't find elsewhere.
 
