@@ -39,7 +39,10 @@ type = "timeless"
 <!--[ProgramFOX's YouTube channel](https://www.youtube.com/channel/UCmx82Kgy9ALzAcmti0LwkJw/featured) - The creator of the Chess Variants Training site (see above) also from time to time streams and uploads videos of playing high-level atomic chess.-->
 
 
-## 他に情報発信してる人は? ##
-[Chronatog](https://chronatog.com/) - Chronatog has been around the variant chess scene an inordinately long time, plays or played many variants to the highest levels (atomic, but also antichess, wild5 and others), and knows many players past and present. His site is currently a great archive of interviews with old players from many different servers and some old games.
+## 他に情報発信している人は? ##
+[Chronatog](https://chronatog.com/) - Chronatog氏はチェスの派生ルール界隈に非常に長い時間関わってきている。多くの派生ルール（アトミックだけでなくアンチチェス、ワイルド５やその他のルール）で最高レベルのプレイをしてきたし、今も最高のプレイをしている。そして過去から現在に至るまでのたくさんのプレイヤーを知っている。彼のサイトは現在、色々なサーバーでプレイしていた往年のプレイヤーへのインタビューや、昔の対局を集めた巨大なアーカイブになっている。
+<!--[Chronatog](https://chronatog.com/) - Chronatog has been around the variant chess scene an inordinately long time, plays or played many variants to the highest levels (atomic, but also antichess, wild5 and others), and knows many players past and present. His site is currently a great archive of interviews with old players from many different servers and some old games.
+-->
 
-[Chronatog Classic](http://www.nicklong.net/chess/lite/) - And Chronatog has of course written much about atomic chess specifically. His old pages are still available, featuring writeups about the history, sites and players of the variant and of internet chess in general.
+[Chronatog Classic](http://www.nicklong.net/chess/lite/) - そしてChronatog氏は特にアトミックについてたくさんのことを書いている。彼の昔のホームページは未だに見ることができる。このサイトにはアトミックの歴史や、関連サイト、派生ルールのプレイヤーたちのこと、そしてオンラインチェス全般のことが書かれた記事がある。
+<!--[Chronatog Classic](http://www.nicklong.net/chess/lite/) - And Chronatog has of course written much about atomic chess specifically. His old pages are still available, featuring writeups about the history, sites and players of the variant and of internet chess in general.-->

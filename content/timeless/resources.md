@@ -24,12 +24,7 @@ PGNで提供することを将来検討するかもしれないが、リチェ�
 以下に示した最初の３つのスタディが、あらゆるアトミックのエンドゲームテクニックの中でたぶん実戦において最も重要だろう。
 
 訳注：以下では、ピースをアルファベット1文字で略すことがある。
-+ K：キング
-+ Q：クイーン
-+ R：ルーク
-+ B：ビショップ
-+ N：ナイト
-+ P：ポーン
+(K：キング, Q：クイーン, R：ルーク, B：ビショップ, N：ナイト, P：ポーン)
 
 
 - [孤立キングのエンドゲーム](https://lichess.org/study/BB4RW1ts) - 孤立キングとの戦いにおける勝ち方を示した。KQ, KQQ, KQB, KRR, KRB, KRN対孤立Kのパターンを網羅している。
@@ -49,9 +44,10 @@ PGNで提供することを将来検討するかもしれないが、リチェ�
 <!--- [Rule of the rectangle](https://lichess.org/study/7SpmVBSz) - A proposed method of counting out KP v K (and some other pure pawn) endgames more easily, like the rule of the square in regular chess. The ideas here are helpful for analysing certain more complex endgames.
 -->
 - [KPP対KP: バックワードポーン](https://lichess.org/study/Iv9L9LTR) - ポーン2つ対ポーン1つの局面では、先にポーンを昇格させた側が勝利を得る。
-だがポーン1つの側が、ポーンで相手のポーン2つをせき止めている場合は、KQ対Kのパターンに持ち込まれる可能性があり、この場合連結キングにする以外にドローにする方法はない。それでも、いくつかトリッキーな勝ち方が存在しているし、相手が受け方を間違えるという希望もある（受け間違えるのは驚くほど簡単だ）。正しい受けのテクニックを学ぼう。受けのテクニックを学ぶのはこれが最後でいい。一度学べば、今後二度と0.5点を落とす心配をしなくてよくなる。
+だがポーン1つの側が、ポーンで相手のポーン2つをせき止めている場合は、KQ対Kのパターンに持ち込まれる可能性があり、この場合連結キングにする以外にドローにする方法はない。それでも、いくつかトリッキーな勝ち方が存在しているし、相手が受け方を間違えるという希望もある（受け間違えるのは驚くほど簡単だ）。正しい受けのテクニックを学ぼう。学ぶのはこれが最後でいい。一度学べば、今後二度と0.5点を落とす心配をしなくてよくなる。
 <!--- [KPP v KP: backwards pawn](https://lichess.org/study/Iv9L9LTR) - Two pawn versus one is winning if one side can promote, but if the one pawn hold back two, it may be drawn as KQ v K with connected kings is only a draw. Nevertheless, there are some tricky wins possible, and always the hope that the opponent defends incorrectly (which is surprisingly easy to do). Learn the proper technique to defend once and for all, and never worry about dropping unnecessary half-points again.-->
-- [KPP v KP: exercises](https://lichess.org/study/K75Qiesx) - A set of 31 exercises to accompany the above KPP v KP study. Good for training calculation and reinforcing what the other study teaches.
+- [KPP対KP: 練習問題](https://lichess.org/study/K75Qiesx) - 上に示したKPP対KPのスタディに添える練習問題を用意した。計算力を磨くのに適しており、他のスタディから得られる学びを増強する効果もある。
+<!--- [KPP v KP: exercises](https://lichess.org/study/K75Qiesx) - A set of 31 exercises to accompany the above KPP v KP study. Good for training calculation and reinforcing what the other study teaches.-->
 - [Expert KQ v KP](https://lichess.org/study/oWJZMklh) - While in the basic KQ v KP study the pawn is already blocked, in the expert study we consider positions where the pawn is not yet blocked. Knowledge of the basic study is absolutely required. Once you master the content here, however, you will have a complete, tablebase-perfect understanding of this fundamental endgame.
 - [Expert KQ v KP: exercises](https://lichess.org/study/C2Jh0UOy) - A set of 39 exercises to accompany the above KQ v KP study. These are instructive and sometimes extremely tricky positions showcasing the depth of this seemingly simple endgame.
 - [KRP v KP](https://lichess.org/study/xvHuOCBq) - How to win when up a rook with a pair of blocked pawns. A rarer endgame but certain positions are much trickier than with the queen.

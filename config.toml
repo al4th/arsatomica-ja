@@ -1,6 +1,6 @@
 baseURL = "https://illion-atomic.netlify.app/"
-languageCode = "en-us"
-title = "Ars Atomica"
+languageCode = "ja"
+title = "アート　オブ　アトミックチェス"
 copyright = "Illion 2017-2020"
 
 [params]
