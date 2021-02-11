@@ -20,15 +20,15 @@ type = "timeless"
 ## 議論したいときは誰とすればいい? ##
 [//]: # ( [My blog group](https://lichess.org/team/illions-atomic-blog-discussion) - Join this lichess group for updates to my site, and to discuss atomic chess with other players. )
 
-[Atomic Chess Theoreticians（アトミックチェス理論研究家の集い）](https://lichess.org/team/atomic-chess-theoreticians) - リチェス上で最大の、アトミックチェスを議論するグループである。創立は2015年であり、以来オープニングラインからコンピューターエンジンの開発に至るまであらゆるテーマについて無数の議論がなされてきた。多くの強豪プレイヤーがよく潜んでいる。
+[アトミックチェス理論家の集い（Atomic Chess Theoreticians）](https://lichess.org/team/atomic-chess-theoreticians) - リチェス上で最大の、アトミックチェスを議論するグループである。創立は2015年であり、以来オープニングラインからコンピューターエンジンの開発に至るまであらゆるテーマについて無数の議論がなされてきた。多くの強豪プレイヤーがよく潜んでいる。
 <!--[Atomic Chess Theoreticians](https://lichess.org/team/atomic-chess-theoreticians) - The biggest atomic chess discussion group on lichess. Created at the start of 2015, it has since gathered numerous discussions on everything from opening lines to writing computer engines. Many strong players tend to lurk here.-->
 
-[The House Discord Server](https://dscrd.me/housechessvariants) - アトミック、クレイジーハウス、バグハウス、アンチチェス（負けチェス）、4人対戦、ホード等々といった種々の派生ルールのためのディスコードサーバーである。リアルタイム通信できるコミュニティであり、一つ一つの派生ルールにたくさんの強豪プレイヤーがいる。その中にはチェスでGMやIMのタイトルを保持している人もいる。
+[ザ・ハウス　ディスコードサーバー（The House Discord Server）](https://dscrd.me/housechessvariants) - アトミック、クレイジーハウス、バグハウス、アンチチェス（負けチェス）、4人対戦、ホード等々といった種々の派生ルールのためのディスコードサーバーである。リアルタイム通信できるコミュニティであり、一つ一つの派生ルールにたくさんの強豪プレイヤーがいる。その中にはチェスでGMやIMのタイトルを保持している人もいる。
 <!--[The House Discord Server](https://dscrd.me/housechessvariants) - A Discord server for many chess variants, including atomic, crazyhouse, bughouse, antichess (losing chess), 4-player, Horde and much more. A lively community including many strong players in each variant, some of whom are even GMs and IMs in regular chess.
 -->
 
 ## どこで学べばいい? ##
-[Chess Variants Training（チェス派生ルールのトレーニング）](https://chessvariants.training/) - [ProgramFOX](https://lichess.org/@/ProgramFOX) 氏が作成したサイトで、派生ルールに関するタクティクス問題やチェス960（ランダムな初期配置から始まる派生ルール）のコンテンツがある。アトミックチェスの問題はたいていクオリティが非常に高い。特に [Caustic](https://lichess.org/@/Caustic)が作成した問題はそうである.
+[チェス派生ルールのトレーニング（Chess Variants Training）](https://chessvariants.training/) - [ProgramFOX](https://lichess.org/@/ProgramFOX) 氏が作成したサイトで、派生ルールに関するタクティクス問題やチェス960（ランダムな初期配置から始まる派生ルール）のコンテンツがある。アトミックチェスの問題はたいていクオリティが非常に高い。特に [Caustic](https://lichess.org/@/Caustic)が作成した問題はそうである.
 <!--[Chess Variants Training](https://chessvariants.training/) - A site written by [ProgramFOX](https://lichess.org/@/ProgramFOX) for variant tactics puzzles and variant960 games (randomised starting positions). The atomic problems are generally of very high quality, especially those by [Caustic](https://lichess.org/@/Caustic).-->
 
 [tipau氏のYouTubeチャンネル](https://www.youtube.com/user/tipau/featured) - 2016年世界チャンピオンであり、歴代最強の一角であるtipau氏によるYouTubeチャンネルである。tipau氏は動画の中で、エンドゲームと特定のオープニングラインについて非常に詳しく解説している。
