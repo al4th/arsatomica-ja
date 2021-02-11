@@ -20,7 +20,7 @@ Sometimes you'll get opening lines, endgame analysis, or the odd rambling about 
 Hopefully some of the material gets beginners through that initial phase of surviving past 5 moves more quickly, or help more experienced players sharpen their game with new insights.-->
 
 
-どちらの場合であっても、このブログを楽しんで読んでもらえることを願っているし、それ以上にアトミックを楽しんでプレイしてもらえることを望む。
+どちらの場合であっても、このブログを楽しみながら読んでもらえることを願っている。それ以上に望むのは、アトミックを楽しんでプレイしてもらえることだ！
 <!--Whatever the case, I hope you'll enjoy reading this blog, and enjoy playing atomic even more!-->
 
 _~[Illion](https://lichess.org/@/Illion)_
