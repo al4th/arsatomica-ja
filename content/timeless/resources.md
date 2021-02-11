@@ -40,7 +40,7 @@ PGNで提供することを将来検討するかもしれないが、リチェ�
 - [ポーン化](https://lichess.org/study/iS3Dp19A) - "ポーン化"という考え方を示す。片方のプレイヤーがポーンだけしか持っておらず、もう片方のプレイヤーがポーンとビショップを持っている場合を考える。ビショップを持っている側は、相手ポーンが全てビショップと違う色のマスにいれば、ビショップの使い道は無いと悟るはずだ。このようなエンディングでは、ポーンストラクチャーやツークツワンクに絡んで、非常にトリッキーな考え方が通用する場合がある。ポーン化の考え方を知っていれば、本来負けるはずだった多くの対局をドローにすることもできるし、ドローになるはずだった対局を勝ちにすることもできる。
 
 <!--- [Pawnitisation](https://lichess.org/study/iS3Dp19A) - The idea of "pawnitisation". When only pawns are left but one side is up a bishop, the bishop might find itself useless if the opponent's pawns are all on the opposite-coloured squares. There can be very tricky ideas with pawn structure and zugzwang in these endings. Losses turn into draws and draws into wins if you know these ideas.-->
-- [三角形ルール](https://lichess.org/study/7SpmVBSz) - KP対Kのエンドゲームをもっと簡単に読み切るための方法として、三角形ルールが提唱されている。これはチェスにおける正方形ルールに似ている。ここで示した考え方は、ある種のもっと複雑なエンドゲームを解析するのに役立つ。
+- [四角形ルール](https://lichess.org/study/7SpmVBSz) - KP対Kのエンドゲームをもっと簡単に読み切るための方法として、四角形ルールが提唱されている。これはチェスにおける正方形ルールに似ている。ここで示した考え方は、ある種のもっと複雑なエンドゲームを解析するのに役立つ。
 <!--- [Rule of the rectangle](https://lichess.org/study/7SpmVBSz) - A proposed method of counting out KP v K (and some other pure pawn) endgames more easily, like the rule of the square in regular chess. The ideas here are helpful for analysing certain more complex endgames.
 -->
 - [KPP対KP: バックワードポーン](https://lichess.org/study/Iv9L9LTR) - ポーン2つ対ポーン1つの局面では、先にポーンを昇格させた側が勝利を得る。
