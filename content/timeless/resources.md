@@ -43,22 +43,22 @@ PGNで提供することを将来検討するかもしれないが、リチェ�
 - [K + 2ピース対KP](https://lichess.org/study/qpSW4QBS) - 基本的なエンドゲームの組み合わせだが、見た目から受ける印象とは違って対局中に勝ち方を見つけるのはたやすくないだろう。だがこういったエンドゲームの勝ち方を知ることによって、"簡単に勝てる"エンドゲームへ持ち込む手法の幅を広げることにつながるはずだ。<!--- [K + 2 pieces v KP](https://lichess.org/study/qpSW4QBS) - A set of fundamental endgames where the winning methods may not be as easy to find over the board as they seem. Knowing how to win these will expand your range of "easily winning" endgame conversions.-->
 
 
-## Game analysis ##
+## 対局の解析 ##
 
-Analysing games is a good way to improve your chess (also your atomic chess). Failing that, the next best thing would be to go over annotated games.
+対局を解析することはチェスの実力を磨く上で優れた方法であり、この点はアトミックチェスも同じだ。それができないのであれば、注釈付きの対局から学ぶのが次善の策であろう。<!--Analysing games is a good way to improve your chess (also your atomic chess). Failing that, the next best thing would be to go over annotated games.-->
 
-- [My old games](https://lichess.org/study/4yVSWBkW) - A critical look back at some of my older games, back when I had just started playing atomic chess.
+- [私の過去の対局より](https://lichess.org/study/4yVSWBkW) - 私がまさにアトミックを始めた頃の対局（昔の対局）から、いくつかの対局をピックアップして振り返りをしたスタディである。<!--- [My old games](https://lichess.org/study/4yVSWBkW) - A critical look back at some of my older games, back when I had just started playing atomic chess.-->
 
-I have also analysed and annotated over 200 of the games played in the 2017 Atomic World Championship, which was organised by tipau on lichess.org in November-December 2017. This is analysis with human comments on the ideas and features of the positions (and of course certain tactical lines), not just engine evaluations. There should be something for all skill levels in these games.
+2017年のアトミック世界選手権 (Atomic World Championship、以下AWC 2017と略) は2017年の11月から12月にかけてlichess.org上で行われた（主催はtipau氏）。私はAWC 2017の対局のうち200以上を解析してきた。ここでの解析とは、単にコンピューターエンジンの評価値を見ることではなく、人間がポジションをどう考えるかとかどんな特徴があるかといったことを人力でコメントしながら考えることである。もちろんタクティクスについても人力で考える。あなたが今どのレベルであったとしても、ここに示した対局から得るものが何かあるはずだ。<!--I have also analysed and annotated over 200 of the games played in the 2017 Atomic World Championship, which was organised by tipau on lichess.org in November-December 2017. This is analysis with human comments on the ideas and features of the positions (and of course certain tactical lines), not just engine evaluations. There should be something for all skill levels in these games.-->
 
-- [AWC 2017 Round 1 upper](https://lichess.org/study/DkOwAm57)
-- [AWC 2017 Round 1 lower](https://lichess.org/study/xb6BuJqH)
-- [AWC 2017 Round 2 upper](https://lichess.org/study/5FmSwRNw)
-- [AWC 2017 Round 2 lower](https://lichess.org/study/naiwBUs5)
+- [AWC 2017 Round 1 上](https://lichess.org/study/DkOwAm57)
+- [AWC 2017 Round 1 下](https://lichess.org/study/xb6BuJqH)
+- [AWC 2017 Round 2 上](https://lichess.org/study/5FmSwRNw)
+- [AWC 2017 Round 2 下](https://lichess.org/study/naiwBUs5)
 - [AWC 2017 Round 3](https://lichess.org/study/1Ca8uzR8)
-- [AWC 2017 Round 4 (quarterfinals)(some games analysed)](https://lichess.org/study/7I3kxX7I)
+- [AWC 2017 Round 4 (準々決勝)(一部ゲーム)](https://lichess.org/study/7I3kxX7I)<!--- [AWC 2017 Round 1 upper](https://lichess.org/study/DkOwAm57)- [AWC 2017 Round 1 lower](https://lichess.org/study/xb6BuJqH)- [AWC 2017 Round 2 upper](https://lichess.org/study/5FmSwRNw)- [AWC 2017 Round 2 lower](https://lichess.org/study/naiwBUs5)- [AWC 2017 Round 3](https://lichess.org/study/1Ca8uzR8)- [AWC 2017 Round 4 (quarterfinals)(some games analysed)](https://lichess.org/study/7I3kxX7I)-->
 
-I've also downloaded the variant games from the FICS game database, and separated all the atomic games from 2009 to 2018 ([PGNs compressed in .7z format, 11.7 MB](/dbs/FICS_atomic_games.7z)). These are provided for the curious player to appreciate older atomic games.
+私はFICSのデータベースから派生ルールの棋譜をダウンロードし、2009年から2018年までに指されたアトミックの対局を抽出した ([7z圧縮されたPGN, 11.7 MB](https://illion-atomic.netlify.app/dbs/FICS_atomic_games.7z))。このデータは、アトミックに興味を持っているプレイヤーが昔の棋譜を鑑賞できるようにするために用意した。<!--I've also downloaded the variant games from the FICS game database, and separated all the atomic games from 2009 to 2018 ([PGNs compressed in .7z format, 11.7 MB](/dbs/FICS_atomic_games.7z)). These are provided for the curious player to appreciate older atomic games.-->
 
 
 ## オープニング ##
