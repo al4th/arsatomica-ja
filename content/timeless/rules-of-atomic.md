@@ -1,5 +1,5 @@
 +++
-title = "Rules of atomic"
+title = "アトミックのルール"
 date = 2017-08-19T11:14:36+02:00
 description = "An explanation of the rules of atomic chess for the beginner."
 
@@ -10,21 +10,21 @@ type = "timeless"
 series = []
 +++
 
-Welcome to atomic chess! The variant rules are also explained at [their own page on lichess](https://lichess.org/variant/atomic), but not many people know about that page, and the rules about checks may seem unclear at first. Presented here are all the rules with examples to show you what it all means.
+アトミックの世界へようこそ！　アトミックのルールは[リチェスのサイト](https://lichess.org/variant/atomic)でも説明されているが、このページについて知っているプレイヤーは少ないようだ。それに初心者のうちは、チェックに関するルールを明確に理解するのは難しいように見える。ここでは全ルールについて、それが何を意味しているのかを実例を交えながら説明している。<!--Welcome to atomic chess! The variant rules are also explained at [their own page on lichess](https://lichess.org/variant/atomic), but not many people know about that page, and the rules about checks may seem unclear at first. Presented here are all the rules with examples to show you what it all means.-->
 
-View all the examples and try moving the pieces [directly on lichess](https://lichess.org/study/Y9Aj5y3j/)!
+以下で示した手順を[リチェス上で直接](https://lichess.org/study/Y9Aj5y3j/)見て、実際に駒を動かしてみよう！
 
-## Goal ##
-In atomic chess, you win by checkmating or exploding the enemy king, with your king remaining on the board.
+## アトミックの目的 ##
+アトミックチェスでは、相手のキングをチェックメイトにするか、爆破して盤上から消せば勝ちになる。ただし爆破の場合、自分のキングが盤上に残っていなければならない。<!--In atomic chess, you win by checkmating or exploding the enemy king, with your king remaining on the board.-->
 
-## Captures ##
+## テイク ##
 
-The most striking feature of atomic chess is the destructive power of captures. When a capture is played:
+アトミックが普通のチェスと大きく異なる点は、テイクの破壊力である。テイクが起きると:<!--The most striking feature of atomic chess is the destructive power of captures. When a capture is played:-->
 
-1. The capturing piece and captured piece die (are removed from the board).
-2. Next, imagine a 3x3 square centred on the captured piece. Everything in that square that is not a pawn dies.
+1. 取られたピースだけでなく、取った側のピースも亡くなる (そして盤上からなくなる)。
+2. そして、取られた駒を中心とした3マス×3マスの正方形をイメージしてほしい。この正方形の中にあるポーン以外のピースは全て亡くなる。
 
-This example shows 3 different captures by black depending on white's 5th move, and explains which pieces die in each capture.
+ここに示した例では、白の5手目に応じて、黒番が3つの異なるパターンのテイクを行っている。それぞれのパターンでどの駒が亡くなるのかを説明している。<!--This example shows 3 different captures by black depending on white's 5th move, and explains which pieces die in each capture.-->
 
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/gIvsi0CZ#4" >}}
 
