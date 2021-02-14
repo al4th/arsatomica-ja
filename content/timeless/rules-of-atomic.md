@@ -55,8 +55,8 @@ series = []
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/DluXatzP#7" >}}
 
 
-## Adjacent kings ##
-Because kings cannot capture anything, they also cannot capture each other. So It is perfectly normal in atomic chess for the kings to be next to each other. Furthermore, while they are adjacent, the kings are immune to checks (since each one can't be captured without exploding the other king, they are not under attack in that sense.) This can make for some very interesting endgames, where the winning method is to explode a piece next to your opponent's king but not next to yours.
+## キングの隣接 ##
+キングがどの駒もテイクできないので、キングで相手のキングをテイクすることもできない。だからアトミックでは、キング同士が隣同士になるのは全くおかしなことではない。さらに言えば、キング同士が隣り合っている限りはどちらのキングもチェックを免除される。というのも、どちらかのキングがテイクされる手は必ずテイクした側のキングを爆破する手になってしまうため、手出しできない状態となっている。このような性質のために、相手のキングに隣接しているが自分のキングに隣接していないピースを爆破することで勝てる、非常に興味深いエンドゲームがいくつか存在する。<!--Because kings cannot capture anything, they also cannot capture each other. So It is perfectly normal in atomic chess for the kings to be next to each other. Furthermore, while they are adjacent, the kings are immune to checks (since each one can't be captured without exploding the other king, they are not under attack in that sense.) This can make for some very interesting endgames, where the winning method is to explode a piece next to your opponent's king but not next to yours.-->
 
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/8gu21f1H#0" >}}
 
