@@ -72,4 +72,4 @@ series = []
 
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/bGNv3Ppy#0" >}}
 
-ここまでがアトミックのるーるである。これでもう相手がチェックを無視したりとか、キングを自分のキングに隣接させてきたりしても驚くことはない。対局の準備は整った！Now you won't be surprised anymore by your opponent ignoring check or having adjacent kings, and you're ready to go out and play!<!--Those are the rules of atomic chess. Now you won't be surprised anymore by your opponent ignoring check or having adjacent kings, and you're ready to go out and play!-->
+ここまでがアトミックのルールである。これでもう相手がチェックを無視したりとか、キングを自分のキングに隣接させてきたりしても驚くことはない。対局の準備は整った！<!--Those are the rules of atomic chess. Now you won't be surprised anymore by your opponent ignoring check or having adjacent kings, and you're ready to go out and play!-->
