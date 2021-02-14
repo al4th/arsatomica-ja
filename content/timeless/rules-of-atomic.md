@@ -29,28 +29,28 @@ series = []
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/gIvsi0CZ#4" >}}
 
 
-Much of the game revolves around winning material (or the enemy king!) with captures while dodging your opponent's threats. In fact, __exploding the enemy king__\* is a fairly common way for the game to end.
+ほとんどの対局は、相手からの脅威をかわしながらテイクで駒得することを中心にして進んでいく。相手キングを消滅させて勝利することもある！　実際のところ、__相手キングを爆破する__\*やり方で対局が終わるというのはかなりよくあることだ。<!--Much of the game revolves around winning material (or the enemy king!) with captures while dodging your opponent's threats. In fact, __exploding the enemy king__\* is a fairly common way for the game to end.-->
 
-This also means that kings cannot capture anything, as they would die in the process. They can't even capture each other!
+このことは、お互いのキングはどの駒もテイクできないということも意味している。テイクしたときに自殺となってしまうからである。自分のキングで相手のキングを取ることすらもできない。<!--This also means that kings cannot capture anything, as they would die in the process. They can't even capture each other!-->
 
-\*Pedantic note: Phrased more accurately, it would be "capturing a piece next to the enemy king, catching it in the explosion", but "exploding the king" is much easier to say.
+\*補足: もっと正確に言うなら、"相手キングを爆破する"というよりは"相手キングに隣接した駒の一つをテイクし、爆発に巻き込む"である。しかし"キングを爆破する"の方がはるかに言いやすいので、このような言い方をしている。<!--\*Pedantic note: Phrased more accurately, it would be "capturing a piece next to the enemy king, catching it in the explosion", but "exploding the king" is much easier to say.-->
 
-### Exception: En passant ###
-In the case of en passant, the 3x3 square in step 2 is not centred on the captured pawn, but on the square it bypassed (the square the capturing pawn moved to).
+### 例外：アンパッサンテイク ###
+アンパッサンの場合、テイクで起きることの2ステップ目における爆心地は、テイクされたポーンのいた位置ではなく、テイクされたポーンが通過した位置（テイクしたポーンが動いた先）になる。<!--In the case of en passant, the 3x3 square in step 2 is not centred on the captured pawn, but on the square it bypassed (the square the capturing pawn moved to).-->
 
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/VEOjghJD#5" >}}
 
 
-## Illegal moves ##
+## 禁止手 ##
 
-The goal in atomic chess is to checkmate or explode the enemy king while keeping your king alive. It is therefore illegal to play a move that explodes your own king, such as capturing a piece next to your king. It is also illegal to play a move that leaves your own king in check, unless you immediately explode the opponent's king.
-This second part is tricky, and takes a while to get used to. I remember it as "King explosion \> check".
+アトミックの目的は、自分のキングを生かしたまま、相手のキングをチェックメイトにしたり爆破することである。したがって自分のキングの隣にある駒をテイクするといった、自分のキングが爆発に巻き込まれる着手は禁止されている。自分のキングがチェックされた状態のまま相手の手番になるような着手も禁止されている（訳注：チェックの放置や、相手の駒をテイクすることでチェックとなってしまう場合が該当する）。ただし相手キングを爆破する着手の場合は、このルールが適用されない。
+2つ目がトリッキーであり、慣れるまでに少し時間がかかる。私は"キングの爆破 \> チェック"として覚えるようにしている。<!--The goal in atomic chess is to checkmate or explode the enemy king while keeping your king alive. It is therefore illegal to play a move that explodes your own king, such as capturing a piece next to your king. It is also illegal to play a move that leaves your own king in check, unless you immediately explode the opponent's king.This second part is tricky, and takes a while to get used to. I remember it as "King explosion \> check".-->
 
-In this example, black cannot leave the king in check with 9...Qxc7.
+下に例を示す。黒番は9...Qxc7とすると、キングがチェックされた状態のまま白番を迎えるため、このような手は指せない。<!--In this example, black cannot leave the king in check with 9...Qxc7.-->
 
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/AVDvSCCW#16" >}}
 
-Whereas in this example, black can ignore the check on his king and win by exploding the enemy king with 4...Bxd2#.
+一方下に示した例では、黒番は自分のキングにかけられたチェックを無視して4...Bxd2#と指すことができ、白のキングを爆破して勝利することができる。<!--Whereas in this example, black can ignore the check on his king and win by exploding the enemy king with 4...Bxd2#.-->
 
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/DluXatzP#7" >}}
 
