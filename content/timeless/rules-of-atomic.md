@@ -61,15 +61,15 @@ series = []
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/8gu21f1H#0" >}}
 
 
-## Castling ##
-Castling works the same as in normal chess. You cannot castle while in check, through check, or into check. The king can however safely pass through or reach any square adjacent to the enemy king; adjacent kings nullify checks.
+## キャッスリング ##
+キャッスリングは普通のチェスと同じように機能する。チェックされている限りはキャッスリングできないし、キングの移動中のマスや移動先のマスが攻撃を受けているとキャッスリングはできない。しかし、相手キングに隣接しているマスであれば、自分のキングは攻撃を受けることなく安全に通過したり到達したりすることができる。つまり互いのキングが隣接している間はチェックが無効化されるのである。<!--Castling works the same as in normal chess. You cannot castle while in check, through check, or into check. The king can however safely pass through or reach any square adjacent to the enemy king; adjacent kings nullify checks.-->
 
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/tV1rwQvI#0" >}}
 
 ---------
 
-To see the rules in action, here's a short example game of atomic.
+駒を動かしながらルールを確認するために、下にアトミックの短い対局例を示した。<!--To see the rules in action, here's a short example game of atomic.-->
 
 {{< lichess-embed src="https://lichess.org/study/Y9Aj5y3j/bGNv3Ppy#0" >}}
 
-Those are the rules of atomic chess. Now you won't be surprised anymore by your opponent ignoring check or having adjacent kings, and you're ready to go out and play!
+ここまでがアトミックのるーるである。これでもう相手がチェックを無視したりとか、キングを自分のキングに隣接させてきたりしても驚くことはない。対局の準備は整った！Now you won't be surprised anymore by your opponent ignoring check or having adjacent kings, and you're ready to go out and play!<!--Those are the rules of atomic chess. Now you won't be surprised anymore by your opponent ignoring check or having adjacent kings, and you're ready to go out and play!-->
