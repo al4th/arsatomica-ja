@@ -24,7 +24,7 @@ PGNで提供することを将来検討するかもしれないが、リチェ�
 (K：キング, Q：クイーン, R：ルーク, B：ビショップ, N：ナイト, P：ポーン)
 
 
-- [孤立キングのエンドゲーム](https://lichess.org/study/BB4RW1ts) - 孤立キングとの戦いにおける勝ち方を示した。KQ, KQQ, KQB, KRR, KRB, KRN対孤立Kのパターンを網羅している。<!--- [Lone king endgames](https://lichess.org/study/BB4RW1ts) - How to win versus a lone king. Covers KQ, KQQ, KQB, KRR, KRB and KRN versus lone K.-->
+- [孤立キングのエンドゲーム](https://lichess.org/study/dwKpIFTQ) ([英語](https://lichess.org/study/BB4RW1ts)) - 孤立キングとの戦いにおける勝ち方を示した。KQ, KQQ, KQB, KRR, KRB, KRN対孤立Kのパターンを網羅している。<!--- [Lone king endgames](https://lichess.org/study/BB4RW1ts) - How to win versus a lone king. Covers KQ, KQQ, KQB, KRR, KRB and KRN versus lone K.-->
 - [KQP対KP](https://lichess.org/study/2DRvcpIZ) - クイーンを1つ得した状態からの勝ち方を示した。最も重要な”勝てる局面を勝ちきる方法”であり、習得するべきだ。このエンドゲームは、なぜ1ポーンのマテリアル差（訳注：駒の損得）がアトミックで勝利に繋がるのかを示している。<!--- [KQP v KP](https://lichess.org/study/2DRvcpIZ) - How to win when up a queen. The single most important "how to win a won game" technique to master. This endgame is why a material difference of a single pawn is winning in atomic.-->
 - [KQ対KP](https://lichess.org/study/nPsVcyo0) - これもまた重要なエンドゲームの一つであり、基礎的なエンドゲームの中では最もトリッキーなものでもある。トップ10に入るほどのプレイヤーであっても、（クイーン対ルークポーンの局面で）間違えたことがある。このエンドゲームは、マテリアルで互角な状態のポーン昇格レースが決着した後に生じる。局面によっては、ポーンを持っている側がドローを取れることさえある。<!--- [KQ v KP](https://lichess.org/study/nPsVcyo0) - Lone queen versus lone pawn. Also an important endgame, and the trickiest basic endgame; even top ten players have messed this up (queen versus rook-pawn)! This endgame is what typically results after even-material pawn races. Sometimes, a draw may even be stolen by the side with the pawn.-->
 
